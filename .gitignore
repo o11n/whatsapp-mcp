@@ -1,3 +1,7 @@
 *.db
 claude_desktop_config.json
 whatsapp.log
+whatsapp-mcp-go/whatsapp-mcp-go
+whatsapp-bridge/whatsapp-bridge
+mcp.json
+examples/get_last_message
